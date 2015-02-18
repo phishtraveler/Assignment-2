@@ -143,7 +143,7 @@
 				"description": "Finish a Classic Arcade Game Clone",
 				"url": "https://github.com/phishtraveler/Assignment-3.git",
 				"images": [
-					"images/priject3.jpg",
+					"images/project3.jpg",
 					"images/arcade.png"
 				]		 
 		 	}
