@@ -128,23 +128,23 @@
     "projects":
 		[
 	    	 {
-				"title": "Project 1",
+				"title": "Project 2",
 				"dates": "2014",
-				"description": "Create a web page from PDF file mockup",
-				"url": "https://github.com/phishtraveler/Project-1.git",
-				"images": [
-					"images/mockup.jpg",
-					"images/maincss.jpg"
-		 	]
-		 	},
-		 	{
-		 		"title": "Project 2",
-		 		"dates": "2015",
 				"description": "Create an Online Resume using JavaScript and JQuery",
-				"url": "https://github.com/phishtraveler/Project-2.git",
+				"url": "https://github.com/phishtraveler/Assignment-2.git",
 				"images": [
 					"images/resume.jpg",
 					"images/style.jpg"
+		 	]
+		 	},
+		 	{
+		 		"title": "Project 3",
+		 		"dates": "2015",
+				"description": "Finish a Classic Arcade Game Clone",
+				"url": "https://github.com/phishtraveler/Assignment-3.git",
+				"images": [
+					"images/priject 3.jpg",
+					"images/arcade.png"
 				]		 
 		 	}
     	]
