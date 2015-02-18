@@ -18,7 +18,7 @@ and submitted my project when she gave me the go ahead.
 
 
 
-I was convinced everyone else was way ahead of me since some peopler were on P3 and P4 and I was still on P1.
+I was convinced everyone else was way ahead of me since some people were on P3 and P4 and I was still on P1.
 
 But I believe some people are only working on the nanodegree and don't work 50 hour a week full time jobs 
 
@@ -40,7 +40,7 @@ of.slice in the first .replace quiz.  Its a different command altogether!
 
 
 
-My resources for P2 incdluded
+My resources for P2 included
 
 1.  Course videos for "Javascript Basics" and "Intro to JQuery" fron Udacity.
 
